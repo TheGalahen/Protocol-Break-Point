@@ -9,7 +9,7 @@ print(fruit[2])
 print(number[0]+number[1])
 print(number[2])
 
-#Range#
+#Range
 
 number2 = range(0,3)
 
